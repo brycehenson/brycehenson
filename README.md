@@ -1,3 +1,5 @@
+I am a PhD candidate in the He* BEC group in the Laser Physics Centre at the Research School of Physics. 
+
 # Research interests 
 For preprints see my arXiv papers [arxiv](https://arxiv.org/a/henson_b_1.html)   
 For publications [Google Scholar](https://scholar.google.com.au/citations?user=9wmY_wYAAAAJ&hl=en)  [ResearchGate](https://www.researchgate.net/profile/Bryce-Henson) 
