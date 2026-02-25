@@ -1,4 +1,3 @@
-I am a PhD candidate in the He* BEC group in the Laser Physics Centre at the Research School of Physics. 
 
 # Research interests 
 For preprints see my arXiv papers [arxiv](https://arxiv.org/a/henson_b_1.html)   
